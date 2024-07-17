@@ -1,0 +1,2 @@
+(182175 rows affected)
+182175 comentarios fueron eliminados.
